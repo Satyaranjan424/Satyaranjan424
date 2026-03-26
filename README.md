@@ -1,3 +1,6 @@
+<!-- TOP WAVE BANNER -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%7B%20Code.%20Build.%20Repeat.%20%7D&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=45)
+
 <h1 align="center">Hey there, I'm Satya Ranjan Das 👋</h1>
 
 <p align="center">
@@ -45,6 +48,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Satyaranjan424&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<!-- BOTTOM WAVE BANNER -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
