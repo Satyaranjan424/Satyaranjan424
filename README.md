@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Satyaranjan Das<br>- 👀 I’m interested in Web development real-world projects.<br>- 🌱 I’m currently learning to build full-stack web apps using React Js.<br>- 💞️ I’m looking to collaborate on Open Source Web Development Projects.<br>- 📫 You can reach me through my social media profile links.
+- 👋 Hi, I’m @Satya Ranjan Das<br>- 👀 I’m interested in Web development real-world projects.<br>- 🌱 I’m currently learning to build full-stack web apps using React Js.<br>- 💞️ I’m looking to collaborate on Open Source Web Development Projects.<br>- 📫 You can reach me through my social media profile links.
 
 
 ## 🌐 Socials:
