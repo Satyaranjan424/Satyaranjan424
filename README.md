@@ -1,5 +1,17 @@
+<h1 align="center">Hey there, I'm Satya Ranjan Das 👋</h1>
+
+<p align="center">
+  <em>Full-Stack Enthusiast · Open Source Contributor · React Developer</em>
+</p>
+
+---
+
 # 💫 About Me:
-- 👋 Hi, I’m @Satya Ranjan Das<br>- 👀 I’m interested in Web development real-world projects.<br>- 🌱 I’m currently learning to build full-stack web apps using React Js.<br>- 💞️ I’m looking to collaborate on Open Source Web Development Projects.<br>- 📫 You can reach me through my social media profile links.
+- 🔭 I'm passionate about building **real-world web projects** that solve actual problems
+- 🌱 Currently leveling up in **Full-Stack development** with **React.js** and modern web technologies
+- 🤝 Open to collaborating on **Open Source Web Development** projects — let's build something awesome together!
+- 💬 Ask me about **React, JavaScript, HTML/CSS, and frontend architecture**
+- 📫 Let's connect through my **social media links** below!
 
 
 ## 🌐 Socials:
